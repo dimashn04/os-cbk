@@ -22,7 +22,7 @@ const FeatureList = [
         Access detailed reports and analyses to help you stay informed.
       </>
     ),
-    link: '/report',  // Internal link
+    link: '/docs/weekly-assignments/intro',  // Internal link
   },
   {
     title: 'Schedule',
@@ -32,7 +32,7 @@ const FeatureList = [
         Keep track of all your important dates and deadlines with our schedule.
       </>
     ),
-    link: '/schedule',  // Internal link
+    link: '/docs/weekly-assignments/intro',  // Internal link
   },
   {
     title: 'Kambing-Blog',
@@ -42,7 +42,7 @@ const FeatureList = [
         Read our latest blog posts and stay up-to-date with recent developments.
       </>
     ),
-    link: '/blog',  // Internal link
+    link: '/docs/weekly-assignments/intro',  // Internal link
   },
   {
     title: 'GitHub',

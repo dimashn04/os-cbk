@@ -101,9 +101,9 @@ const config = {
             position: 'left',
             label: 'Weekly Assignments',
           },
-          {to: '/report', label: 'See Reports', position: 'left'},
-          {to: '/schedule', label: 'Schedule', position: 'left'},
-          {to: '/blog', label: 'Kambing-Blog', position: 'left'},
+          {to: '/docs/weekly-assignments/intro', label: 'See Reports', position: 'left'},
+          {to: '/docs/weekly-assignments/intro', label: 'Schedule', position: 'left'},
+          {to: '/docs/weekly-assignments/intro', label: 'Kambing-Blog', position: 'left'},
           {
             href: 'https://github.com/os2xx/os/',
             label: 'GitHub',
@@ -119,7 +119,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/weekly-assignments/intro',
               },
             ],
           },
